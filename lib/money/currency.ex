@@ -34,6 +34,7 @@ defmodule Money.Currency do
     AZN: %{name: "Azerbaijanian Manat",                                    symbol: "ман",  exponent: 2},
     BAM: %{name: "Convertible Marks",                                      symbol: "KM",   exponent: 2},
     BBD: %{name: "Barbados Dollar",                                        symbol: "$",    exponent: 2},
+    BCH: %{name: "Bitcoin Cash",                                           symbol: "₿",    exponent: 8},
     BDT: %{name: "Taka",                                                   symbol: "৳",    exponent: 2},
     BGN: %{name: "Bulgarian Lev",                                          symbol: "лв",   exponent: 2},
     BHD: %{name: "Bahraini Dinar",                                         symbol: ".د.ب",    exponent: 3},
